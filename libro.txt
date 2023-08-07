@@ -1,1 +1,3 @@
 Whenever you run an executable file, the operating system creates new process.
+A process is a live and running program that is loaded into the memory 
+and has a unique identifier (PID).
