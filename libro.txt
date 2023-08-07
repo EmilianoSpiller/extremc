@@ -5,3 +5,5 @@ The operating system is the sole responsible entity for spawnig  and
 loading a new process.
 A process remains running until it either exists normally, or the process 
 is given a signal.
+When creating a process, one of the first things that operating system do is to allocate a portion 
+of memory dedicated to the process and then apply a predefind memory layout.
