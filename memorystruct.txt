@@ -1,0 +1,1 @@
+Unix-like operating systems provide a set of tools for inspecting the memory segments of a process.
