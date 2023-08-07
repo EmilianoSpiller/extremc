@@ -1,1 +1,2 @@
 Unix-like operating systems provide a set of tools for inspecting the memory segments of a process.
+An executable object file and a process are not the same thing.
