@@ -3,3 +3,5 @@ A process is a live and running program that is loaded into the memory
 and has a unique identifier (PID).
 The operating system is the sole responsible entity for spawnig  and 
 loading a new process.
+A process remains running until it either exists normally, or the process 
+is given a signal.
