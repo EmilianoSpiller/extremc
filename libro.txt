@@ -1,0 +1,1 @@
+Whenever you run an executable file, the operating system creates new process.
