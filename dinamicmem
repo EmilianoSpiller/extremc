@@ -1,1 +1,2 @@
 the dynamic memory layout is actually the running memory of a process.
+When you execute an executable object file, a program called loader takes care of the execution.
