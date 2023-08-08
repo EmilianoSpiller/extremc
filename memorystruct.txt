@@ -1,3 +1,4 @@
 Unix-like operating systems provide a set of tools for inspecting the memory segments of a process.
 An executable object file and a process are not the same thing.
 An executable contains machine instructions while a process is a running program spawned by executinbg an executable object file.
+The former memory layout is static whereas the latter is dynamic.
