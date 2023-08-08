@@ -2,3 +2,4 @@ The size command is a tool which can be used to print the static memory layout o
 Objdump  is used to see the content of the Data segment.
 The option -s tells objdump to show the full content of the chooosen section.
 Note that the objdump comand is only available in Linux.
+Other operating systems have their own set of commands to do the same.
