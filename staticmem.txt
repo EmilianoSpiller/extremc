@@ -3,3 +3,4 @@ Objdump  is used to see the content of the Data segment.
 The option -s tells objdump to show the full content of the chooosen section.
 Note that the objdump comand is only available in Linux.
 Other operating systems have their own set of commands to do the same.
+Generally we have two different types of endianness, big-endian and little-endian.
